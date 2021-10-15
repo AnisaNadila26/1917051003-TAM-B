@@ -38,3 +38,6 @@ Kelas : B <br>
 - [MyFlexibleFragment](https://github.com/AnisaNadila26/1917051003_TAM-B/tree/main/MyFlexibleFragment)
 - [MyListView](https://github.com/AnisaNadila26/1917051003_TAM-B/tree/main/MyListView)
 - [MyViewAndViews](https://github.com/AnisaNadila26/1917051003_TAM-B/tree/main/MyViewAndViews)
+- [MyViewAndViewsWithStyle](https://github.com/AnisaNadila26/1917051003-TAM-B/tree/main/MyViewAndViewsWithStyle)
+- [MyActionBar](https://github.com/AnisaNadila26/1917051003-TAM-B/tree/main/MyActionBar)
+- [MyRecyclerView](https://github.com/AnisaNadila26/1917051003-TAM-B/tree/main/MyRecyclerView)
