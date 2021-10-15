@@ -41,3 +41,6 @@ Kelas : B <br>
 - [MyViewAndViewsWithStyle](https://github.com/AnisaNadila26/1917051003-TAM-B/tree/main/MyViewAndViewsWithStyle)
 - [MyActionBar](https://github.com/AnisaNadila26/1917051003-TAM-B/tree/main/MyActionBar)
 - [MyRecyclerView](https://github.com/AnisaNadila26/1917051003-TAM-B/tree/main/MyRecyclerView)
+- [MyNavigationDrawer](https://github.com/AnisaNadila26/1917051003-TAM-B/tree/main/MyNavigationDrawer)
+- [MyBottomNavigation](https://github.com/AnisaNadila26/1917051003-TAM-B/tree/main/MyBottomNavigation)
+- [MyTabLayout](https://github.com/AnisaNadila26/1917051003-TAM-B/tree/main/MyTabLayout)
