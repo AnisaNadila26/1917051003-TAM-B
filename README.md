@@ -48,5 +48,6 @@ Kelas : B <br>
 - [MyDeepNavigation](https://github.com/AnisaNadila26/1917051003-TAM-B/tree/main/MyDeepNavigation)
 - [MyAlarmManager](https://github.com/AnisaNadila26/1917051003-TAM-B/tree/main/MyAlarmManager)
 - [MyQuote](https://github.com/AnisaNadila26/1917051003-TAM-B/tree/main/MyQuote)
+- [MySharedPreferences](https://github.com/AnisaNadila26/1917051003-TAM-B/tree/main/MySharedPreferences)
 - [MyUnitTest](https://github.com/AnisaNadila26/1917051003-TAM-B/tree/main/MyUnitTest)
 - [MyUiTest](https://github.com/AnisaNadila26/1917051003-TAM-B/tree/main/MyUiTest)
