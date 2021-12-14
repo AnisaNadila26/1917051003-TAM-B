@@ -49,5 +49,6 @@ Kelas : B <br>
 - [MyAlarmManager](https://github.com/AnisaNadila26/1917051003-TAM-B/tree/main/MyAlarmManager)
 - [MyQuote](https://github.com/AnisaNadila26/1917051003-TAM-B/tree/main/MyQuote)
 - [MySharedPreferences](https://github.com/AnisaNadila26/1917051003-TAM-B/tree/main/MySharedPreferences)
+- [MyNotesApp](https://github.com/AnisaNadila26/1917051003-TAM-B/tree/main/MyNotesApp)
 - [MyUnitTest](https://github.com/AnisaNadila26/1917051003-TAM-B/tree/main/MyUnitTest)
 - [MyUiTest](https://github.com/AnisaNadila26/1917051003-TAM-B/tree/main/MyUiTest)
